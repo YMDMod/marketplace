@@ -1,0 +1,16 @@
+{
+  "id": "marketplace",
+  "name": "Каталог аддонов",
+  "version": "0.3.4",
+  "description": "Установка и обновление аддонов из каталога YMDMod на GitHub, уведомления о новых версиях аддонов и мода. Вкладка «Каталог» на этой странице.",
+  "author": "YMDMod",
+  "apiVersion": 1,
+  "modVersions": [">=0.1.0 <1.0.0"],
+  "defaultEnabled": true,
+  "permissions": ["addons"],
+  "main": "main.js",
+  "renderer": "renderer.js",
+  "settings": [
+    { "key": "checkUpdates", "type": "boolean", "label": "Сообщать о новых версиях мода и аддонов", "default": true }
+  ]
+}
