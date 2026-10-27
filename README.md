@@ -3,8 +3,8 @@
 <p align="center">Системный аддон <a href="https://github.com/YMDMod/YMDMod">YMDMod</a>: вкладка «Каталог» на странице мода.</p>
 
 <p align="center">
-  <a href="https://github.com/YMDMod/marketplace/releases/latest"><img src="https://img.shields.io/github/v/release/YMDMod/marketplace?label=версия" alt="Версия"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/YMDMod/marketplace?label=лицензия" alt="Лицензия"></a>
+  <a href="https://github.com/YMDMod/marketplace/releases/latest"><img src="https://img.shields.io/github/v/release/YMDMod/marketplace?label=version" alt="Version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/YMDMod/marketplace?label=license" alt="License"></a>
 </p>
 
 ---
