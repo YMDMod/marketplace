@@ -3,7 +3,7 @@
   "name": "Каталог аддонов",
   "version": "0.3.5",
   "description": "Установка и обновление аддонов из каталога YMDMod на GitHub, уведомления о новых версиях аддонов и мода.",
-  "modVersions": [">=0.1.0 <1.0.0"],
+  "modVersions": [">=0.2.0 <1.0.0"],
   "settings": [
     { "key": "checkUpdates", "type": "boolean", "label": "Сообщать о новых версиях мода и аддонов", "default": true }
   ]
