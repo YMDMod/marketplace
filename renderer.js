@@ -217,7 +217,6 @@ module.exports = {
       const node = el('div', { class: 'ymd-card', 'data-catalog': addon.id }, [
         el('div', { class: 'ymd-row' }, [
           el('div', { class: 'ymd-name' }, [addon.name, el('span', { class: 'ymd-ver', text: addon.version })]),
-          addon.type === 'library' && el('span', { class: 'ymd-chip ymd-off', text: 'Библиотека' }),
           chip,
         ]),
       ]);

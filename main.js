@@ -70,7 +70,6 @@ async function listCatalog() {
         version: entry.version,
         description: entry.description || '',
         author: entry.author || '',
-        type: entry.type || 'addon',
         needs: describeNeeds(entry, entries, installed),
         installedVersion: local ? local.version : null,
         update: Boolean(local && isNewer(entry.version, local.version)),
